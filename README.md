@@ -46,5 +46,6 @@ Aplikasi ini memiliki dua layar utama:
 - Tambahkan konfigurasi di `pubspec.yaml` untuk mendukung aset gambar, dan font lain.
 
 ---
+Created By Apri Supandi Pasaribu
 ✨ Dibuat dengan menggunakan Flutter! ✨
 
